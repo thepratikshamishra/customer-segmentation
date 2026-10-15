@@ -1,4 +1,4 @@
-# Customer Segmentation Using RFM and K-Means
+ # Customer Segmentation Using RFM and K-Means
 
 Beginner-friendly Data Science internship project using transaction data, Pandas, Matplotlib/Seaborn, and scikit-learn.
 
